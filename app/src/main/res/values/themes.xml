@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginAndRegister2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--
+          The "parent" attribute was likely "Theme.AppCompat..."
+          It has been changed to "Theme.Material3.DayNight.NoActionBar".
+          This is the fix.
+        -->
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.LoginAndRegister2" parent="Base.Theme.LoginAndRegister2" />
+</resources>

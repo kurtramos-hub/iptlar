@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174360930053",
+    "project_id": "loginandregister-ed0b9",
+    "storage_bucket": "loginandregister-ed0b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174360930053:android:2ccc0de69de23ff65d396c",
+        "android_client_info": {
+          "package_name": "com.example.loginandregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXk88uPFRQEw8MiQpjmgHR4pCa1yrPyQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
